@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/chilling.mp3</file>
+        <file>sounds/collide.wav</file>
+        <file>sounds/point.wav</file>
+    </qresource>
+</RCC>
